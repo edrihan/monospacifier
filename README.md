@@ -1,7 +1,7 @@
 # monospacifier.py
 This file is forked from https://github.com/cpitclaudel/monospacifier
 
-I wanted to use it with newer python, and it seems abandoned. This fork aims to fix a couple issues so that this pacakge works a bit better. Feel free to leave issues or pull requests and I'll try to keep it updated.
+I wanted to use it with newer python, and it seems abandoned. This fork fixes https://github.com/cpitclaudel/monospacifier/issues/32 so it should work!
 
 *A great way to increase the Unicode coverage of your favorite programming font.*
 
